@@ -1,0 +1,9 @@
+\ML_project_assignment\venv
+\Machine-learning-algorithms\data
+\ML_project_assignment\data
+
+\ML_project_assignment\Ml_projects\.*csv
+
+\ML_project_assignment\Ml_projects\.*json
+\.menv
+
